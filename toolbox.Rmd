@@ -1,0 +1,14 @@
+---
+title: "My Data Science Toolbox"
+output: html_document
+---
+
+## My Toolbox
+
+I have successfully installed the required tools for the Data Science Specialization:
+
+- ✅ R
+- ✅ RStudio
+- ✅ Git & GitHub
+
+I am ready to begin the course!
